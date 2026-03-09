@@ -1,0 +1,6 @@
+name=input("輸入你的名字 ")
+age=int(input("輸入你的年齡 "))
+hobby=input("你有什麼興趣 ")
+school=input("你的學校與科系 ")
+
+print(f"我是{name}，{age}歲，興趣是{hobby}，就讀於{school}")
